@@ -1,4 +1,4 @@
- # Bank account demo design.IT has login system.
+ # Bank account demo design.
 # Deposit system
 # withdraw system
 # Balance system
